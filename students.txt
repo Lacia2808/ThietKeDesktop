@@ -1,0 +1,2 @@
+4710123|Nguyễn Văn|An|2003-05-12|CTK47A|Nam|123456789|0901234567|Thủ Dầu Một|Lập trình C#,CSDL,Mạng máy tính
+4610101|Trần Thị|Bình|2002-10-03|CTK46|Nữ|987654321|0912345678|TP.HCM|Hệ điều hành,Thiết kế giao diện
